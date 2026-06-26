@@ -1,0 +1,17 @@
+com\pricetracker\repository\ProductRepository.class
+com\pricetracker\service\ProductService.class
+com\pricetracker\model\Product.class
+com\pricetracker\dto\Dtos.class
+com\pricetracker\dto\Dtos$ScrapedProductData.class
+com\pricetracker\service\PriceUpdateService.class
+com\pricetracker\controller\ProductController.class
+com\pricetracker\dto\Dtos$ScraperResponse.class
+com\pricetracker\model\Product$PriceHistory.class
+com\pricetracker\PriceTrackerApplication.class
+com\pricetracker\model\PriceHistoryEntity.class
+com\pricetracker\dto\Dtos$PriceAlertRequest.class
+com\pricetracker\dto\Dtos$ApiResponse.class
+com\pricetracker\repository\PriceHistoryRepository.class
+com\pricetracker\model\Product$NotifyUser.class
+com\pricetracker\config\AppConfig.class
+com\pricetracker\service\EmailService.class

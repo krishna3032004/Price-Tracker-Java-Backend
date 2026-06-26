@@ -1,0 +1,11 @@
+K:\krishna study\krishna programing\java backden project\pricetracker-java-backend-fixed\pricetracker-java\src\main\java\com\pricetracker\config\AppConfig.java
+K:\krishna study\krishna programing\java backden project\pricetracker-java-backend-fixed\pricetracker-java\src\main\java\com\pricetracker\controller\ProductController.java
+K:\krishna study\krishna programing\java backden project\pricetracker-java-backend-fixed\pricetracker-java\src\main\java\com\pricetracker\dto\Dtos.java
+K:\krishna study\krishna programing\java backden project\pricetracker-java-backend-fixed\pricetracker-java\src\main\java\com\pricetracker\model\PriceHistoryEntity.java
+K:\krishna study\krishna programing\java backden project\pricetracker-java-backend-fixed\pricetracker-java\src\main\java\com\pricetracker\model\Product.java
+K:\krishna study\krishna programing\java backden project\pricetracker-java-backend-fixed\pricetracker-java\src\main\java\com\pricetracker\PriceTrackerApplication.java
+K:\krishna study\krishna programing\java backden project\pricetracker-java-backend-fixed\pricetracker-java\src\main\java\com\pricetracker\repository\PriceHistoryRepository.java
+K:\krishna study\krishna programing\java backden project\pricetracker-java-backend-fixed\pricetracker-java\src\main\java\com\pricetracker\repository\ProductRepository.java
+K:\krishna study\krishna programing\java backden project\pricetracker-java-backend-fixed\pricetracker-java\src\main\java\com\pricetracker\service\EmailService.java
+K:\krishna study\krishna programing\java backden project\pricetracker-java-backend-fixed\pricetracker-java\src\main\java\com\pricetracker\service\PriceUpdateService.java
+K:\krishna study\krishna programing\java backden project\pricetracker-java-backend-fixed\pricetracker-java\src\main\java\com\pricetracker\service\ProductService.java
